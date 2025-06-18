@@ -48,6 +48,7 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
 ## 🧪 Expected Outcome
 - A fully functional React application with multiple components
 - Proper state management using React hooks
+
 - API integration with loading and error handling
 - Responsive design implemented with Tailwind CSS
 - Clean, well-organized code following React best practices

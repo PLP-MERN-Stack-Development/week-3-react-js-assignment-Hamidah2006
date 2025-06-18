@@ -2,10 +2,16 @@ import { useState } from 'react';
 import './App.css';
 
 // Import your components here
-// import Button from './components/Button';
-// import Navbar from './components/Navbar';
-// import Footer from './components/Footer';
-// import TaskManager from './components/TaskManager';
+ import Button from './components/Button';
+
+import Navbar from './components/Navbar';
+ import Footer from './components/Footer';
+ import TaskManager from './components/TaskManager';
+ import card from '.component/card';
+ import React from "react";
+ import layout from '.component/layout';
+ import ApiData from './components/ApiData2';
+ 
 
 function App() {
   const [count, setCount] = useState(0);
