@@ -64,7 +64,7 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
    npm run dev
    ```
 
-## ✅ Submission Instructions
+## ✅ Submission Instructions-
 1. Accept the GitHub Classroom assignment invitation
 2. Clone your personal repository that was created by GitHub Classroom
 3. Complete all the tasks in the assignment
