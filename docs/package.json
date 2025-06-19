@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "start": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --no-cache",
+    "homepage": "https://plp-mern-stack-development.github.io/week-3-react-js-assignment-Hamidah2006"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",

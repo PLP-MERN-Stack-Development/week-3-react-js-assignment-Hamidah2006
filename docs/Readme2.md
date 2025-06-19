@@ -61,6 +61,7 @@ GitHub Pages (with gh-pages package)
 > 💡 Don't forget to update the homepage field in your package.json for GitHub Pages deployment.
 
 🖼️ Screenshots
+docs/Annotation 2025-06-19 221428.png
 
 📝 Author
 Created by Hamidah 🧡 Inspired by modern development workflows and best practices.
