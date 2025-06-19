@@ -43,6 +43,8 @@ src/
 ├── App.jsx          # Root component with routes
 └── index.jsx        # Entry point
 
+Deployed Link:
+https://hamidah2006.github.io/
 🚚 Deployment
 To create a production build:
 
