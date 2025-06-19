@@ -44,7 +44,7 @@ src/
 └── index.jsx        # Entry point
 
 Deployed Link:
-https://hamidah2006.github.io/
+https://hamidah2006.github.io/my_taskmanager/
 🚚 Deployment
 To create a production build:
 
